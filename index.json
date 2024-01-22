@@ -1,3 +1,8 @@
-{
-	"new_data": 3
-}
+[
+    {
+        "url": "https://hawthorne-abendsen.github.io/test-json-data/assets-list.json",
+        "desc": "Trusted assets list by Test provider",
+        "icon": "https://stellar.expert/img/stellar-expert-blue.svg",
+        "name": "Test assets list provider"
+    }
+]
