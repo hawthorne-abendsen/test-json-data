@@ -1,0 +1,37 @@
+{
+  "name": "Fantasy Token Universe",
+  "provider": "MagicalFinance",
+  "description": "Assets traded on the MagicalFinance DEX platform",
+  "version": "2.3",
+  "feedback": "https://magical.finance/asset-list/contact",
+  "assets": [
+    {
+      "contract": "CGAMER1Y4U6AZEDPMQNRUT7ZH6UUSK6C3TWVLMJ64M3DIMQGYXF4GYQJO",
+      "code": "DRGN",
+      "issuer": "GDRAKET5NDQ4MTZXFA7ATZZA5LQIU7GQNZWKF5TKO5AFJLAAI77XDRGN",
+      "name": "Dragon Coin",
+      "org": "DragonKeepers Federation",
+      "domain": "fantasytokens.com",
+      "icon": "https://fantasytokens.com/drgn.png",
+      "decimals": 14
+    },
+    {
+      "code": "EGLD",
+      "issuer": "GDRAKET5NDQ4MTZXFA7ATZZA5LQIU7GQNZWKF5TKO5AFJLAAI77XDRGN",
+      "name": "Elven Gold",
+      "org": "Elven Treasury",
+      "domain": "fantasytokens.com",
+      "icon": "bafkreicjdptvjcidbwsnbeddt2uhl3tej4crgmgsvlxarlg3fsc4a2i454",
+      "decimals": 7,
+      "comment": "Official currency of Elven lands, endorsed by Elven Treasury."
+    },
+    {
+      "contract": "CORCMINT7R52SZMIQBOVNQZJ5QGN5XC2JFB3MYUBL4LEZ5I5YDQY3ORC",
+      "name": "Orc Steel",
+      "org": "Orcish Smith Guild",
+      "domain": "orcforged.dapp",
+      "icon": "https://fantasytokens.com/orcst.png",
+      "decimals": 3
+    }
+  ]
+}
